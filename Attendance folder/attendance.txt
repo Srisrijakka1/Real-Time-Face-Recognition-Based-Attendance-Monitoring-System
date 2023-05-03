@@ -1,0 +1,274 @@
+          || Attendance ||
+<<<<<<<<<<<<----------->>>>>>>>>>>>>>>
+<<<<<<<<<<<<----------->>>>>>>>>>>>>>>SRISRI attended
+NAGASESHU attended
+VAMSI attended
+SRISRI attended
+NAGASESHU attended
+NAGASESHU attended
+SRISRI attended
+VAMSI attended
+NAGASESHU attended
+SRISRI attended
+SRISRI attended
+VIKAS attended
+VIKAS attended
+VAMSI attended
+NAGASESHU attended
+NAGASESHU attended
+VIKAS attended
+SRISRI attended
+SRISRI attended
+VIKAS attended
+NAGASESHU attended
+SRISRI attended
+VAMSI attended
+VIKAS attended
+SRISRI attended
+SRISRI attended
+VIKAS attended
+NAGASESHU attended
+NAGASESHU attended
+VAMSI attended
+VIKAS attended
+SRISRI attended
+VIKAS attended
+SRISRI attended
+NAGASESHU attended
+VIKAS attended
+NAGASESHU attended
+VIKAS attended
+VAMSI attended
+NAGASESHU attended
+SRISRI attended
+NAGASESHU attended
+VIKAS attended
+NAGASESHU attended
+VAMSI attended
+SRISRI attended
+SRISRI attended
+VIKAS attended
+VIKAS attended
+VIKAS attended
+VIKAS attended
+SRISRI attended
+VIKAS attended
+NAGASESHU attended
+NAGASESHU attended
+SRISRI attended
+SRISRI attended
+SRISRI attended
+SRISRI attended
+SRISRI attended
+SRISRI attended
+SRISRI attended
+NAGASESHU attended
+SRISRI attended
+NAGASESHU attended
+NAGASESHU attended
+SRISRI attended
+SRISRI attended
+NAGASESHU attended
+NAGASESHU attended
+NAGASESHU attended
+NAGASESHU attended
+VAMSI attended
+SRISRI attended
+SRISRI attended
+SRISRI attended
+SRISRI attended
+NAGASESHU attended
+NAGASESHU attended
+VAMSI attended
+VAMSI attended
+SRISRI attended
+SRISRI attended
+SRISRI attended
+SRISRI attended
+SRISRI attended
+SRISRI attended
+SRISRISRISRISRISRI logout  on 06/04/2023 at 23:01:18 attended
+SRISRI login  on 06/04/2023 at 23:01:28 attended
+SRISRI login marked on 06/04/2023 at 23:04:18
+SRISRI logout marked on 06/04/2023 at 23:05:32
+SRISRI login marked on 06/04/2023 at 23:08:52
+SRISRI logout marked on 06/04/2023 at 23:11:55
+SRISRI login marked on 06/04/2023 at 23:12:01
+SRISRI logout marked on 06/04/2023 at 23:14:36
+SRISRI login marked on 06/04/2023 at 23:14:39
+SRISRI logout marked on 06/04/2023 at 23:14:59
+SRISRI login marked on 06/04/2023 at 23:25:39
+SRISRI logout marked on 06/04/2023 at 23:25:47
+SRISRI login marked on 07/04/2023 at 11:06:17
+NAGASESHU logout marked on 07/04/2023 at 11:06:58
+NAGASESHU login marked on 07/04/2023 at 11:08:35
+NAGASESHU logout marked on 07/04/2023 at 11:08:40
+NAGASESHU login marked on 07/04/2023 at 11:08:57
+NAGASESHU logout marked on 07/04/2023 at 11:09:01
+NAGASESHU login marked on 07/04/2023 at 11:09:15
+NAGASESHU logout marked on 07/04/2023 at 11:10:50
+NAGASESHU login marked on 07/04/2023 at 11:11:01
+NAGASESHU logout marked on 07/04/2023 at 11:11:04
+NAGASESHU login marked on 07/04/2023 at 11:11:09
+NAGASESHU logout marked on 07/04/2023 at 11:11:14
+NAGASESHU login marked on 07/04/2023 at 11:12:10
+NAGASESHU logout marked on 07/04/2023 at 11:12:32
+VIKAS login marked on 07/04/2023 at 11:13:48
+NAGASESHU logout marked on 07/04/2023 at 11:13:52
+NAGASESHU login marked on 07/04/2023 at 11:13:56
+NAGASESHU logout marked on 07/04/2023 at 11:14:03
+NAGASESHU login marked on 07/04/2023 at 11:14:40
+NAGASESHU logout marked on 07/04/2023 at 11:14:47
+NAGASESHU login marked on 07/04/2023 at 11:14:51
+NAGASESHU logout marked on 07/04/2023 at 11:14:56
+VIKAS login marked on 07/04/2023 at 11:15:13
+NAGASESHU logout marked on 07/04/2023 at 11:15:21
+VIKAS logout marked on 07/04/2023 at 11:15:27
+NAGASESHU login marked on 07/04/2023 at 11:15:31
+NAGASESHU logout marked on 07/04/2023 at 11:15:39
+NAGASESHU login marked on 07/04/2023 at 11:16:30
+NAGASESHU logout marked on 07/04/2023 at 11:16:36
+NAGASESHU login marked on 07/04/2023 at 11:17:12
+NAGASESHU logout marked on 07/04/2023 at 11:17:26
+NAGASESHU login marked on 07/04/2023 at 11:17:31
+NAGASESHU logout marked on 07/04/2023 at 11:17:36
+NAGASESHU login marked on 07/04/2023 at 11:17:40
+NAGASESHU logout marked on 07/04/2023 at 11:17:44
+NAGASESHU login marked on 07/04/2023 at 11:20:06
+VIKAS login marked on 07/04/2023 at 11:20:39
+NAGASESHU logout marked on 07/04/2023 at 11:21:02
+NAGASESHU login marked on 07/04/2023 at 11:21:12
+NAGASESHU logout marked on 07/04/2023 at 11:21:23
+NAGASESHU login marked on 07/04/2023 at 11:21:29
+NAGASESHU logout marked on 07/04/2023 at 11:21:34
+VIKAS logout marked on 07/04/2023 at 11:21:51
+NAGASESHU logout marked on 07/04/2023 at 11:21:55
+SRISRI logout marked on 07/04/2023 at 13:58:15
+SRISRI login marked on 07/04/2023 at 13:58:18
+SRISRI logout marked on 07/04/2023 at 13:58:20
+SRISRI login marked on 07/04/2023 at 13:58:23
+SRISRI logout marked on 07/04/2023 at 13:58:25
+SRISRI login marked on 07/04/2023 at 13:58:43
+SRISRI logout marked on 07/04/2023 at 13:58:46
+SRISRI login marked on 07/04/2023 at 13:58:48
+VAMSI login marked on 07/04/2023 at 13:59:28
+SRISRI logout marked on 07/04/2023 at 14:01:48
+SRISRI login marked on 07/04/2023 at 14:01:50
+SRISRI logout marked on 07/04/2023 at 14:01:53
+SRISRI login marked on 07/04/2023 at 14:02:03
+SRISRI logout marked on 07/04/2023 at 14:02:05
+SRISRI login marked on 07/04/2023 at 14:02:08
+SRISRI logout marked on 07/04/2023 at 14:02:10
+SRISRI login marked on 07/04/2023 at 14:02:13
+SRISRI logout marked on 07/04/2023 at 14:03:55
+SRISRI login marked on 07/04/2023 at 14:03:59
+SRISRI logout marked on 07/04/2023 at 14:04:02
+NAGASESHU login marked on 07/04/2023 at 14:05:30
+SRISRI logout marked on 17/04/2023 at 12:07:21
+SRISRI login marked on 28/04/2023 at 17:56:39
+SRISRI logout marked on 28/04/2023 at 17:57:18
+NAGASESHU logout marked on 28/04/2023 at 17:57:43
+NAGASESHU login marked on 28/04/2023 at 17:57:48
+VAMSI logout marked on 28/04/2023 at 17:57:59
+VIKAS login marked on 28/04/2023 at 17:58:37
+VIKAS logout marked on 28/04/2023 at 17:58:41
+SRISRI login marked on 28/04/2023 at 18:08:07
+SRISRI logout marked on 28/04/2023 at 18:11:12
+VIKAS logout marked on 28/04/2023 at 18:17:24
+NAGASESHU login marked on 28/04/2023 at 18:18:54
+VAMSI login marked on 28/04/2023 at 18:21:00
+VAMSI logout marked on 28/04/2023 at 18:25:53
+SRISRI logout marked on 28/04/2023 at 18:25:59
+NAGASESHU login marked on 28/04/2023 at 18:26:03
+NAGASESHU logout marked on 28/04/2023 at 18:26:07
+NAGASESHU login marked on 28/04/2023 at 18:26:25
+NAGASESHU logout marked on 28/04/2023 at 18:26:45
+SRISRI login marked on 28/04/2023 at 18:26:53
+NAGASESHU logout marked on 28/04/2023 at 18:27:07
+SRISRI login marked on 28/04/2023 at 18:27:49
+NAGASESHU logout marked on 28/04/2023 at 18:28:17
+VIKAS login marked on 28/04/2023 at 18:28:23
+VIKAS logout marked on 28/04/2023 at 18:28:51
+NAGASESHU login marked on 28/04/2023 at 18:29:21
+NAGASESHU logout marked on 28/04/2023 at 18:29:28
+NAGASESHU login marked on 28/04/2023 at 18:29:34
+VIKAS logout marked on 28/04/2023 at 18:29:50
+SRISRI login marked on 28/04/2023 at 18:31:35
+NAGASESHU login marked on 28/04/2023 at 18:31:40
+NAGASESHU logout marked on 28/04/2023 at 18:32:03
+VAMSI login marked on 28/04/2023 at 18:32:16
+VAMSI logout marked on 28/04/2023 at 18:32:20
+VAMSI login marked on 28/04/2023 at 18:32:27
+VAMSI logout marked on 28/04/2023 at 18:33:10
+VAMSI login marked on 28/04/2023 at 18:33:15
+VAMSI logout marked on 28/04/2023 at 18:33:20
+VAMSI login marked on 28/04/2023 at 18:33:24
+SRISRI logout marked on 28/04/2023 at 18:33:29
+SRISRI login marked on 28/04/2023 at 18:33:59
+SRISRI logout marked on 28/04/2023 at 18:34:03
+VAMSI login marked on 28/04/2023 at 18:34:09
+VAMSI logout marked on 28/04/2023 at 18:34:13
+SRISRI login marked on 28/04/2023 at 18:34:22
+NAGASESHU login marked on 28/04/2023 at 18:35:07
+NAGASESHU logout marked on 28/04/2023 at 18:35:12
+NAGASESHU login marked on 28/04/2023 at 18:35:16
+NAGASESHU logout marked on 28/04/2023 at 18:35:22
+VIKAS login marked on 28/04/2023 at 18:35:27
+VIKAS logout marked on 28/04/2023 at 18:35:32
+VIKAS login marked on 28/04/2023 at 18:35:37
+NAGASESHU logout marked on 28/04/2023 at 18:35:41
+NAGASESHU login marked on 28/04/2023 at 18:35:46
+NAGASESHU logout marked on 28/04/2023 at 18:35:52
+VIKAS login marked on 28/04/2023 at 18:35:56
+VIKAS logout marked on 28/04/2023 at 18:36:02
+VIKAS login marked on 28/04/2023 at 18:36:06
+NAGASESHU logout marked on 28/04/2023 at 18:36:10
+VIKAS login marked on 28/04/2023 at 18:36:14
+NAGASESHU logout marked on 28/04/2023 at 18:36:34
+VIKAS login marked on 28/04/2023 at 18:36:48
+VIKAS logout marked on 28/04/2023 at 18:37:33
+VIKAS login marked on 28/04/2023 at 18:37:37
+VIKAS logout marked on 28/04/2023 at 18:37:46
+VIKAS login marked on 28/04/2023 at 18:37:51
+VIKAS logout marked on 28/04/2023 at 18:37:55
+VIKAS login marked on 28/04/2023 at 18:37:59
+NAGASESHU logout marked on 28/04/2023 at 18:38:02
+NAGASESHU login marked on 28/04/2023 at 18:38:06
+VIKAS logout marked on 28/04/2023 at 18:38:10
+VIKAS login marked on 28/04/2023 at 18:38:16
+VIKAS logout marked on 28/04/2023 at 18:38:20
+VIKAS login marked on 28/04/2023 at 18:38:30
+VIKAS logout marked on 28/04/2023 at 18:38:45
+VIKAS login marked on 28/04/2023 at 18:38:49
+VIKAS logout marked on 28/04/2023 at 18:38:53
+VIKAS login marked on 28/04/2023 at 18:38:58
+VIKAS logout marked on 28/04/2023 at 18:39:02
+VIKAS login marked on 28/04/2023 at 18:39:09
+NAGASESHU login marked on 28/04/2023 at 18:39:16
+VIKAS logout marked on 28/04/2023 at 18:39:21
+VIKAS login marked on 28/04/2023 at 18:39:25
+VAMSI login marked on 28/04/2023 at 18:43:45
+VIKAS logout marked on 28/04/2023 at 18:44:12
+SRISRI logout marked on 28/04/2023 at 18:45:45
+SRISRI login marked on 28/04/2023 at 18:46:20
+VAMSI logout marked on 29/04/2023 at 14:43:31
+VIKAS login marked on 29/04/2023 at 14:47:34
+VIKAS logout marked on 29/04/2023 at 14:48:59
+VIKAS login marked on 29/04/2023 at 14:49:07
+VIKAS logout marked on 29/04/2023 at 14:49:13
+VIKAS login marked on 29/04/2023 at 14:49:26
+VIKAS logout marked on 29/04/2023 at 14:49:30
+NAGASESHU logout marked on 02/05/2023 at 16:47:46
+SRISRI login marked on 02/05/2023 at 16:48:16
+NAGASESHU login marked on 02/05/2023 at 17:41:38
+NAGASESHU logout marked on 03/05/2023 at 10:54:11
+SRISRI logout marked on 03/05/2023 at 10:54:18
+SRISRI login marked on 03/05/2023 at 10:54:21
+VAMSI login marked on 03/05/2023 at 10:54:25
+NAGASESHU login marked on 03/05/2023 at 10:54:35
+SRISRI logout marked on 03/05/2023 at 12:13:42
+NAGASESHU login marked on 03/05/2023 at 13:04:15
+VIKAS login marked on 03/05/2023 at 13:05:16
+SRISRI login marked on 03/05/2023 at 20:06:07
+SRISRI logout marked on 03/05/2023 at 20:06:09
+SRISRI login marked on 03/05/2023 at 20:06:17
