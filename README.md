@@ -4,9 +4,11 @@
               This Repository also helpful in developing high secure Login based on face recognition.
 
 # Requirements for this project:
-              A google account > for colab access
-                               > google drive to store the whole project related data.
-              High Resolution webcamera.For this project 1080MP camera gives more better capturing results compared to less resolution cameras. 
+ > A google account > for Google colab and Google Drive access
+ > 
+ >                  > google drive to store the whole project related data and Google Colab to run the code.
+ >
+ > High Resolution webcamera.For this project 1080MP camera gives more better capturing results compared to less resolution cameras. 
 
 
 # Adventages of this Project:
