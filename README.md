@@ -10,6 +10,10 @@
  >
  > High Resolution webcamera.For this project 1080MP camera gives more better capturing results compared to less resolution cameras. 
 
+# Flowchart this project:
+
+![image](https://user-images.githubusercontent.com/106643865/236116057-218d4b47-f289-433c-9fb6-ff758d998a4e.png)
+
 
 # Adventages of this Project:
               In this Project the webcam will capture the Real time data of video.so this model is called Real time based model.
