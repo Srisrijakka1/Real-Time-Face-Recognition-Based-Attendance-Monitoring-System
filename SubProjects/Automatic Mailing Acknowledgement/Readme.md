@@ -212,6 +212,10 @@ OVERALL FINAL CODE IS:
         print("NO match found")
     #------------------------------------------------------------------------
 
+## VIDEO GUIDANCE FOR CREATING AUTOMAINIG FEATURE FOR THIS PROJECT AND FOR REAL TIME USING COLAB AND GOOGLE DRIVE by PYTHON CODE
+
+https://user-images.githubusercontent.com/106643865/236247866-2f702281-def1-4b77-96e1-f1ce70ad7fae.mp4
+
 
 Result:
 > Acknowledgement Email is Sent Successfully 
