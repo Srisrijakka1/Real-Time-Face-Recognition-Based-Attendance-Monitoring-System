@@ -211,3 +211,9 @@ OVERALL FINAL CODE IS:
       except:
         print("NO match found")
     #------------------------------------------------------------------------
+
+
+Result:
+> Acknowledgement Email is Sent Successfully 
+> ![AutomaticMailingFeature-Result](https://user-images.githubusercontent.com/106643865/236212934-6946c66e-2e05-413e-86b2-66beefac7fa8.png)
+
