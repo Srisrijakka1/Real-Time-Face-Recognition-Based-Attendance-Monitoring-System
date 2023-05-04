@@ -102,6 +102,10 @@ def update_login(student_name):
 update_login("Spark")
 </pre>
 
+## VIDEO GUIDANCE TO ACHIEVE ATTENDANCE DATABASE UPDATE
+
+> https://user-images.githubusercontent.com/106643865/236190622-40772a55-165c-4ce8-9578-a15e700b6cc8.mp4
+
 ## RESULTS:
 >   Login.txt Modification in case 1
 >![LoginUpdate1](https://user-images.githubusercontent.com/106643865/236175776-24f05797-cc5e-408e-b9b9-2ac345c16cc3.png)
