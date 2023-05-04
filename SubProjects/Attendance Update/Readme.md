@@ -101,3 +101,9 @@ def update_login(student_name):
 # I need to provide the input of Student name to update_login function to modify the login.txt
 update_login("Spark")
 </pre>
+
+## RESULTS:
+>   Login.txt Modification in case 1
+>![LoginUpdate1](https://user-images.githubusercontent.com/106643865/236175776-24f05797-cc5e-408e-b9b9-2ac345c16cc3.png)
+>   Login.txt Modification in case 2
+>![LoginUpdate2](https://user-images.githubusercontent.com/106643865/236175801-7044db82-7764-4b26-acb5-78ab895e34e0.png)
