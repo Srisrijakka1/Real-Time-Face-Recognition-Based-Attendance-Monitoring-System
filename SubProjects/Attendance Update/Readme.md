@@ -12,8 +12,36 @@ Solution: I like to use google drive is my storage because to overcome the disas
 
 </pre>
 Need : To open the File in the Project                                                                                                                         <br>
-Solution: 
->        with open(file_path, 'r') as file:
->            lines = file.readlines()
-       Where file_path='/content/drive/MyDrive/Colab Notebooks/Real_time_face_recognition_based_Attendance_monitoring_system/Attendance folder/login.txt' 
-       The above path is an example of input path file as login.txt
+>Solution: 
+>>        with open(file_path, 'r') as file:
+>>            lines = file.readlines()
+>       Where, file_path='/content/drive/MyDrive/Colab Notebooks/Real_time_face_recognition_based_Attendance_monitoring_system/Attendance folder/login.txt' 
+>       The above path is an example of input path file as login.txt
+>       lines is a list of lines in the file.
+>       ex:
+>       _________________________
+>       |Login.txt               | 
+>       |------------------------|
+>       |  Srisri                |
+>       |  Seshu                 |
+>       |________________________|     for this login.txt  >output> lines = [ 'Srisri\n' , 'Seshu\n' ] 
+       
+       
+Need : To write in a file just opened aboe with new content of lines.
+>Solution:
+>>        with open(file_path, 'w') as file:
+>>          file.writelines(new_lines)
+>       Where, file_path='/content/drive/MyDrive/Colab Notebooks/Real_time_face_recognition_based_Attendance_monitoring_system/Attendance folder/login.txt' 
+>       The above path is an example of input path file as login.txt
+>       new_lines is a list of lines in the file.
+>       ex:
+>       new_lines = [ 'VamsiAnurag\n' , 'Srisri\n' , 'Seshu\n' , 'Vikas\n' ]
+>       for this new_lines input login.txt becomes >
+>       _________________________
+>       |Login.txt               | 
+>       |------------------------|
+>       |  VamsiAnurag           |
+>       |  Srisri                |
+>       |  Seshu                 |
+>       |  Vikas                 |
+>       |________________________| 
