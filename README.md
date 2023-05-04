@@ -10,10 +10,21 @@
  >
  > High Resolution webcamera.For this project 1080MP camera gives more better capturing results compared to less resolution cameras. 
 
+# Motivation
+>The primary motivation behind taking up this project is to detect and recognize the face’s from user to the images present in the database. 
+>Instead of taking manual attendance daily, this can be much useful in educational Institutions and organizations for daily verification of user or candidate.
+
 # Flowchart this project:
 
-![image](https://user-images.githubusercontent.com/106643865/236116057-218d4b47-f289-433c-9fb6-ff758d998a4e.png)
+>![image](https://user-images.githubusercontent.com/106643865/236116057-218d4b47-f289-433c-9fb6-ff758d998a4e.png)
 
+# Results:
+><div style="display:flex;gap=5px;">
+>   Resutl1:In this way the camera automatic captured photo is furtur processed to obtain results
+>  <div><img src="https://user-images.githubusercontent.com/106643865/236117077-50c46d6b-6b94-4dce-9ba8-e28ee4e02012.png" height=50% width=50% > </div>
+>   Result2:The Acknowledgement is sent to the Gaurdian or parent.
+>  <div><img src="https://user-images.githubusercontent.com/106643865/236117124-e975b724-d9fb-451c-84b8-255b91c9291c.png" height=50% width=50% ></div>
+</div>
 
 # Adventages of this Project:
               In this Project the webcam will capture the Real time data of video.so this model is called Real time based model.
@@ -25,7 +36,7 @@
               This project also uses the GoogleDrive as a storage and Google Colab for Execution.So it is a cloud based model.
 
 
-> Demo Video
+# Demo Video
 > 
 > https://user-images.githubusercontent.com/106643865/235976000-746e8ae9-019e-4c9b-88ea-c26ed3b35397.mp4
 
