@@ -1,6 +1,12 @@
 # ATTENDANCE DATABASE UPDATE
 This Feature is to update the Attendance of the Attended Student Login and Logout in Attendance Folder on Login.txt and attendance.txt Files.                  <br>
 
+# Requirements for this project:
+ > A google account > for Google colab and Google Drive access
+ > 
+ >                  > google drive to store the whole project related data and Google Colab to run the code.
+ >
+
 <pre>
 Need : To Update Attendance you are required to create a Folder                                                                                                <br>
 Solution: I like to use google drive is my storage because to overcome the disasters Cloud storage is best solution.So i prefer Google Drive.                  <br>
