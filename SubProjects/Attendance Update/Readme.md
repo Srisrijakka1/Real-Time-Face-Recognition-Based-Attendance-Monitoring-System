@@ -28,7 +28,7 @@ Need : To open the File in the Project                                          
        
        
 Need : To write in a file just opened aboe with new content of lines.
->Solution:
+>Solution:                                                                                                                                                    
 >>        with open(file_path, 'w') as file:
 >>          file.writelines(new_lines)
 >       Where, file_path='/content/drive/MyDrive/Colab Notebooks/Real_time_face_recognition_based_Attendance_monitoring_system/Attendance folder/login.txt' 
@@ -45,3 +45,59 @@ Need : To write in a file just opened aboe with new content of lines.
 >       |  Seshu                 |
 >       |  Vikas                 |
 >       |________________________| 
+
+
+Need : I want List of students in the class as a file as login.txt.
+>Solution:
+>
+>                  Algorithm:
+>                  1.I want to find wheather student is login or not?
+>                  2.If student is already found logged then now the student is attended for logout.In this case i like to remove the name of student in the login.txt
+>                  3.If student is not found in login.txt then this is the time of student login so i like to add the student name in the login.txt
+>
+
+
+<pre>
+def update_login(student_name):
+      # This is My login.txt File path 
+      file_path = '/content/drive/MyDrive/Colab Notebooks/Real_time_face_recognition_based_Attendance_monitoring_system/Attendance folder/login.txt'
+      # student_name = input("Enter student name: ")
+
+      # I would like to open and read the lines of login.txt file
+      with open(file_path, 'r') as file:
+          lines = file.readlines()
+      print("initial>",lines)
+
+      #let till now student is not found i like to serch inside the login.txt
+      found = 0
+      new_lines = []
+
+      for line in lines:
+          #if student scaned by Attendance system is Already Login then 
+          #i need to remove it in new file so remove adding student name in new_lines
+          if line.strip() == student_name:
+              found = 1 
+              print(found,"<<")
+              continue
+          else:
+              new_lines.append(line)  
+
+      #If the student is not found in the login list then i need to add the student name in the login.txt by new_lines
+      if not found:
+          new_lines.append(student_name + '\n')
+
+      #Write the new_lines in the login.txt to modify the changes
+      with open(file_path, 'w') as file:
+          file.writelines(new_lines)
+
+      #to verify the resulted login.txt file open in readmode and Print the output.
+      with open(file_path, 'r') as file:
+          lines = file.readlines()
+      print("final>",lines)
+      for i in lines:
+        print(i)
+      return found
+
+# I need to provide the input of Student name to update_login function to modify the login.txt
+update_login("Spark")
+</pre>
