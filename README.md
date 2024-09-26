@@ -50,3 +50,9 @@
              This model is better to use in banks to improve security for seceret rooms.
              This model is one of the best suitable in military zones at enterence to control the unauthorised entry.
              This model is useful in everywhere in real life from Automatic home entry sytem to entry in Rockets launcing places.
+
+<!-- 
+## Documentaion:
+[T7MAJORPROJECT DOCUMENTATION.docx](https://github.com/user-attachments/files/17152053/T7MAJORPROJECT.DOCUMENTATION.docx)
+--!>
+
